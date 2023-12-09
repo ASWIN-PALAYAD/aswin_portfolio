@@ -34,7 +34,7 @@ function Projects() {
             <ProjectCard
               imgPath={fiverr}
               isBlog={false}
-              title="Fiverr (clone)"
+              title="Fiverr Clone (ongoing)"
               description="Developing a Fiverr-inspired application using theMERN stack, complete with a real-time chat feature.This platform allows freelancers to offer their services,while clients can find and hire the right talent. Theintegrated chat functionality enables seamlesscommunication between freelancers and clients,facilitating collaboration and project management."
               demoLink=""
               ghLink="https://github.com/ASWIN-PALAYAD/mern_freelance_job_app.git"
