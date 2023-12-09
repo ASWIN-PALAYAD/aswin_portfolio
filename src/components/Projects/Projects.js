@@ -6,8 +6,6 @@ import kidzone from "../../Assets/Projects/kidzone.png";
 import fiverr from "../../Assets/Projects/fiverr.png";
 import netflix from "../../Assets/Projects/netflix.png";
 import youtube from "../../Assets/Projects/youtube.png";
-import suicide from "../../Assets/Projects/suicide.png";
-import bitsOfCode from "../../Assets/Projects/blog.png";
 
 function Projects() {
   return (
